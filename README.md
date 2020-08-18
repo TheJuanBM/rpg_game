@@ -5,6 +5,6 @@
 
 <hr />
 
-https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH
+**Challenge:** https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH
 
 > **By:** Juan Pablo Bedoya <br /> **Email:** juanpims09@gmail.com
