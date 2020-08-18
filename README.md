@@ -1,4 +1,4 @@
 # RPG-Game
 
-´´yarn´´
-yarn dev´´
+``yarn``
+``yarn dev``
