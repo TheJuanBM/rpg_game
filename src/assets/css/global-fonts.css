@@ -1,0 +1,17 @@
+/* Barlow Semi Condensed */
+
+/* 600 */
+@font-face {
+  font-weight: 600;
+  font-style: normal;
+  font-family: "Barlow Semi Condensed";
+  src: url("/fonts/BarlowSemiCondensed-SemiBold.ttf");
+}
+
+/* 700 */
+@font-face {
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Barlow Semi Condensed";
+  src: url("/fonts/BarlowSemiCondensed-Bold.ttf");
+}
